@@ -23,4 +23,5 @@ fn main() {
     }
 
     println!("\nData written to file.");
+    
 }
